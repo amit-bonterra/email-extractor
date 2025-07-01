@@ -21,7 +21,7 @@ variable "public_repo" {
 }
 
 variable "startup_file" {
-  default = "src/app.js"
+  default = "app.js"
 }
 
 variable "allowed_ip" {
